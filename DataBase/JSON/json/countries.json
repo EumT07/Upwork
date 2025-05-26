@@ -1,0 +1,182 @@
+[
+    {
+        "id": "PT-7402",
+        "code": "PT",
+        "country": "Portugal",
+        "nationality": "Portuguese"
+    },
+    {
+        "id": "AR-3616",
+        "code": "AR",
+        "country": "Argentina",
+        "nationality": "Argentine"
+    },
+    {
+        "id": "RU-9927",
+        "code": "RU",
+        "country": "Russia",
+        "nationality": "Russian"
+    },
+    {
+        "id": "CN-796",
+        "code": "CN",
+        "country": "China",
+        "nationality": "Chinese"
+    },
+    {
+        "id": "BR-8019",
+        "code": "BR",
+        "country": "Brazil",
+        "nationality": "Brazilian"
+    },
+    {
+        "id": "CA-3293",
+        "code": "CA",
+        "country": "Canada",
+        "nationality": "Canadian"
+    },
+    {
+        "id": "KR-1449",
+        "code": "KR",
+        "country": "South Korea",
+        "nationality": "South Korean"
+    },
+    {
+        "id": "EC-2462",
+        "code": "EC",
+        "country": "Ecuador",
+        "nationality": "Ecuadorian"
+    },
+    {
+        "id": "VE-6191",
+        "code": "VE",
+        "country": "Venezuela",
+        "nationality": "Venezuelan"
+    },
+    {
+        "id": "JP-5640",
+        "code": "JP",
+        "country": "Japan",
+        "nationality": "Japanese"
+    },
+    {
+        "id": "NO-9824",
+        "code": "NO",
+        "country": "Norway",
+        "nationality": "Norwegian"
+    },
+    {
+        "id": "CO-4794",
+        "code": "CO",
+        "country": "Colombia",
+        "nationality": "Colombian"
+    },
+    {
+        "id": "FR-9537",
+        "code": "FR",
+        "country": "France",
+        "nationality": "French"
+    },
+    {
+        "id": "US-1713",
+        "code": "US",
+        "country": "United States",
+        "nationality": "American"
+    },
+    {
+        "id": "PE-3705",
+        "code": "PE",
+        "country": "Peru",
+        "nationality": "Peruvian"
+    },
+    {
+        "id": "PL-6117",
+        "code": "PL",
+        "country": "Poland",
+        "nationality": "Polish"
+    },
+    {
+        "id": "CL-8251",
+        "code": "CL",
+        "country": "Chile",
+        "nationality": "Chilean"
+    },
+    {
+        "id": "PY-6805",
+        "code": "PY",
+        "country": "Paraguay",
+        "nationality": "Paraguayan"
+    },
+    {
+        "id": "AU-8251",
+        "code": "AU",
+        "country": "Australia",
+        "nationality": "Australian"
+    },
+    {
+        "id": "PA-8075",
+        "code": "PA",
+        "country": "Panama",
+        "nationality": "Panamanian"
+    },
+    {
+        "id": "DO-7807",
+        "code": "DO",
+        "country": "Dominican Republic",
+        "nationality": "Dominican"
+    },
+    {
+        "id": "MX-8842",
+        "code": "MX",
+        "country": "Mexico",
+        "nationality": "Mexican"
+    },
+    {
+        "id": "IT-6093",
+        "code": "IT",
+        "country": "Italy",
+        "nationality": "Italian"
+    },
+    {
+        "id": "DE-8917",
+        "code": "DE",
+        "country": "Germany",
+        "nationality": "German"
+    },
+    {
+        "id": "ES-812",
+        "code": "ES",
+        "country": "Spain",
+        "nationality": "Spanish"
+    },
+    {
+        "id": "PR-1747",
+        "code": "PR",
+        "country": "Puerto Rico",
+        "nationality": "Puerto Rican"
+    },
+    {
+        "id": "UY-3286",
+        "code": "UY",
+        "country": "Uruguay",
+        "nationality": "Uruguayan"
+    },
+    {
+        "id": "CR-2353",
+        "code": "CR",
+        "country": "Costa Rica",
+        "nationality": "Costa Rican"
+    },
+    {
+        "id": "SV-9790",
+        "code": "SV",
+        "country": "El Salvador",
+        "nationality": "Salvadoran"
+    },
+    {
+        "id": "JM-9762",
+        "code": "JM",
+        "country": "Jamaica",
+        "nationality": "Jamaican"
+    }
+]

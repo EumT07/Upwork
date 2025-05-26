@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "PD-5422",
+        "product_name": "Chunky Knit Sweater",
+        "description": "Cozy oversized sweater perfect for chilly days with a textured knit design.",
+        "price": 1267,
+        "release": "2018-08-05",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-5243",
+        "product_name": "Snack Container Set",
+        "description": "Stackable containers for organizing snacks and treats.",
+        "price": 248,
+        "release": "2020-06-05",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-7729",
+        "product_name": "Mediterranean Chickpea Salad",
+        "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",
+        "price": 732,
+        "release": "2022-04-06",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-7404",
+        "product_name": "Pine Nuts",
+        "description": "Nutty flavor perfect for pesto and salads.",
+        "price": 114,
+        "release": "2019-08-24",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-8714",
+        "product_name": "Relaxed Fit Henley Shirt",
+        "description": "A comfortable henley shirt made of soft cotton, perfect for casual outings.",
+        "price": 142,
+        "release": "2024-10-29",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-3449",
+        "product_name": "Organic Coconut Oil",
+        "description": "Cold-pressed coconut oil, perfect for cooking, baking, or skin care.",
+        "price": 1217,
+        "release": "2023-11-04",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-5265",
+        "product_name": "Bamboo Utensil Holder",
+        "description": "Stylish holder for organizing cooking utensils.",
+        "price": 515,
+        "release": "2019-08-27",
+        "department": "Games"
+    },
+    {
+        "id": "PD-7510",
+        "product_name": "Electric Blanket",
+        "description": "Extra soft electric blanket with adjustable heat settings.",
+        "price": 1300,
+        "release": "2022-02-05",
+        "department": "Movies"
+    },
+    {
+        "id": "PD-1948",
+        "product_name": "Handcrafted Wooden Coasters",
+        "description": "Set of unique wooden coasters for drinks and decor.",
+        "price": 1389,
+        "release": "2022-07-12",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-7524",
+        "product_name": "Pressure Cooker",
+        "description": "Instant pressure cooker with multiple cooking settings.",
+        "price": 501,
+        "release": "2024-09-23",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-3569",
+        "product_name": "Garlic and Herb Cream Cheese",
+        "description": "Spreadable cream cheese with garlic and herbs.",
+        "price": 519,
+        "release": "2019-04-25",
+        "department": "Outdoors"
+    },
+    {
+        "id": "PD-4996",
+        "product_name": "Portable Solar Camp Shower",
+        "description": "Portable solar shower for camping and outdoor use.",
+        "price": 1340,
+        "release": "2019-01-21",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-5284",
+        "product_name": "Portable Solar Camp Shower",
+        "description": "Portable solar shower for camping and outdoor use.",
+        "price": 1415,
+        "release": "2024-06-15",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-6626",
+        "product_name": "Classic Vanilla Fudge",
+        "description": "Creamy vanilla fudge, a sweet treat for all occasions.",
+        "price": 1431,
+        "release": "2023-02-18",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-4796",
+        "product_name": "Sea Salt Caramel Popcorn",
+        "description": "Sweet and salty popcorn with sea salt and caramel, a tasty treat.",
+        "price": 536,
+        "release": "2025-03-06",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-4227",
+        "product_name": "Coconut Granola",
+        "description": "Crunchy granola mixed with coconut flakes.",
+        "price": 500,
+        "release": "2020-03-02",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-7429",
+        "product_name": "Dish Rack",
+        "description": "Collapsible dish rack for kitchen countertop use.",
+        "price": 1279,
+        "release": "2023-06-29",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-3711",
+        "product_name": "High-Top Leather Boots",
+        "description": "Durable high-top leather boots for the stylish adventurer.",
+        "price": 363,
+        "release": "2020-05-20",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-2814",
+        "product_name": "Fruit and Nut Bars",
+        "description": "Individually packaged bars made with dried fruits and nuts.",
+        "price": 1383,
+        "release": "2024-02-22",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-7621",
+        "product_name": "Hiking Boots",
+        "description": "Comfortable hiking boots for outdoor adventures.",
+        "price": 1435,
+        "release": "2018-08-02",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-5870",
+        "product_name": "Foot Massager Machine",
+        "description": "Electric foot massager for relaxation and relief.",
+        "price": 626,
+        "release": "2021-09-09",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-2079",
+        "product_name": "Electric Fondue Pot",
+        "description": "Set for making fondue at home.",
+        "price": 862,
+        "release": "2021-09-01",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-7181",
+        "product_name": "Red Lentils",
+        "description": "Nutritious and quick-cooking red lentils.",
+        "price": 885,
+        "release": "2020-02-25",
+        "department": "Industrial"
+    },
+    {
+        "id": "PD-8088",
+        "product_name": "Smart Fitness Scale",
+        "description": "Bluetooth scale that tracks body composition through an app.",
+        "price": 1039,
+        "release": "2023-02-01",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-4781",
+        "product_name": "Garlic & Herb Goat Cheese",
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers.",
+        "price": 1084,
+        "release": "2019-02-11",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-8095",
+        "product_name": "Peach Preserves",
+        "description": "Sweet and fruity peach preserves, perfect for spreading on toast.",
+        "price": 571,
+        "release": "2022-04-26",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-9810",
+        "product_name": "Travel Hair Straightener",
+        "description": "Compact hair straightener for travel.",
+        "price": 1159,
+        "release": "2018-12-27",
+        "department": "Books"
+    },
+    {
+        "id": "PD-7078",
+        "product_name": "Miso Dressing",
+        "description": "Flavorful dressing made with miso paste",
+        "price": 889,
+        "release": "2019-10-06",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-3523",
+        "product_name": "Kids' Art Easel",
+        "description": "Double-sided art easel for painting and drawing.",
+        "price": 599,
+        "release": "2021-03-12",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-5117",
+        "product_name": "Pesto Pasta Sauce",
+        "description": "Rich basil pesto sauce for pasta and more.",
+        "price": 918,
+        "release": "2024-01-12",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-2101",
+        "product_name": "Kids' Gardening Kit",
+        "description": "Complete set designed for children to learn gardening.",
+        "price": 196,
+        "release": "2020-11-24",
+        "department": "Industrial"
+    },
+    {
+        "id": "PD-8625",
+        "product_name": "Electric Food Steamer",
+        "description": "Electric food steamer for healthy cooking.",
+        "price": 641,
+        "release": "2024-12-24",
+        "department": "Music"
+    },
+    {
+        "id": "PD-6050",
+        "product_name": "Cinnamon Sugar Donuts",
+        "description": "Delicious mini donuts dusted with cinnamon sugar.",
+        "price": 384,
+        "release": "2019-04-08",
+        "department": "Health"
+    },
+    {
+        "id": "PD-4431",
+        "product_name": "Roasted Red Pepper Hummus",
+        "description": "A creamy and flavorful hummus made with roasted red peppers.",
+        "price": 923,
+        "release": "2022-01-08",
+        "department": "Books"
+    },
+    {
+        "id": "PD-4558",
+        "product_name": "Oatmeal Raisin Cookies",
+        "description": "Delicious cookies packed with oats and raisins.",
+        "price": 103,
+        "release": "2025-03-09",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-1740",
+        "product_name": "Chili Lime Seasoning",
+        "description": "Zesty seasoning great for tacos and grilling.",
+        "price": 1235,
+        "release": "2021-09-10",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-7028",
+        "product_name": "Robot Vacuum Cleaner",
+        "description": "Smart robotic vacuum for automatic cleaning.",
+        "price": 290,
+        "release": "2020-12-06",
+        "department": "Games"
+    },
+    {
+        "id": "PD-8024",
+        "product_name": "Frozen Mixed Berries",
+        "description": "A mix of strawberries, blueberries, and raspberries.",
+        "price": 1270,
+        "release": "2019-11-27",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-3273",
+        "product_name": "Ultraviolet Phone Sanitizer",
+        "description": "UV sanitizer that kills germs on your smartphone.",
+        "price": 1273,
+        "release": "2024-12-15",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-1363",
+        "product_name": "Baked Falafel Balls",
+        "description": "Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads.",
+        "price": 1092,
+        "release": "2018-02-02",
+        "department": "Industrial"
+    },
+    {
+        "id": "PD-8743",
+        "product_name": "Travel Sewing Kit",
+        "description": "Compact sewing kit for travel emergencies.",
+        "price": 195,
+        "release": "2019-09-11",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-7068",
+        "product_name": "Children's Educational Workbook",
+        "description": "Activity workbook for early learning and fun.",
+        "price": 1252,
+        "release": "2021-08-25",
+        "department": "Books"
+    },
+    {
+        "id": "PD-7263",
+        "product_name": "Basil Tomato Soup",
+        "description": "Rich tomato soup flavored with fresh basil, ready to heat up.",
+        "price": 1103,
+        "release": "2018-08-27",
+        "department": "Games"
+    },
+    {
+        "id": "PD-8707",
+        "product_name": "Tattoo Kit",
+        "description": "Complete tattoo kit for beginners and professionals.",
+        "price": 1408,
+        "release": "2024-12-26",
+        "department": "Health"
+    },
+    {
+        "id": "PD-5177",
+        "product_name": "Non-Stick Grill Mat",
+        "description": "Reusable mat that prevents food from sticking to the grill.",
+        "price": 1022,
+        "release": "2018-06-08",
+        "department": "Books"
+    },
+    {
+        "id": "PD-6749",
+        "product_name": "LED Christmas Lights",
+        "description": "Eco-friendly LED lights for festive decorations.",
+        "price": 606,
+        "release": "2024-04-11",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-3123",
+        "product_name": "Magnetic Spice Jars",
+        "description": "Convenient magnetic jars for easy spice storage.",
+        "price": 469,
+        "release": "2019-03-29",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-1159",
+        "product_name": "Brazil Nuts",
+        "description": "Rich in selenium, perfect for snacking or baking.",
+        "price": 449,
+        "release": "2022-02-22",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-7547",
+        "product_name": "Buffalo Style Cauliflower Bites",
+        "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer.",
+        "price": 1136,
+        "release": "2024-05-21",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-2743",
+        "product_name": "BBQ Lentil Chips",
+        "description": "Savory lentil chips with BBQ flavor",
+        "price": 546,
+        "release": "2022-10-23",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-1656",
+        "product_name": "Trendy Bomber Jacket",
+        "description": "A fashion-forward bomber jacket to elevate your casual looks.",
+        "price": 1310,
+        "release": "2018-07-19",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-6221",
+        "product_name": "Smartphone Hand Grip",
+        "description": "Sturdy grip to hold your phone securely while taking selfies.",
+        "price": 271,
+        "release": "2020-09-11",
+        "department": "Electronics"
+    },
+    {
+        "id": "PD-6487",
+        "product_name": "Decorative Wall Tapestry",
+        "description": "Colorful tapestry to add charm to any room.",
+        "price": 859,
+        "release": "2018-02-24",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-9036",
+        "product_name": "Backpack",
+        "description": "Durable and spacious backpack for travel and school.",
+        "price": 1049,
+        "release": "2018-09-10",
+        "department": "Games"
+    },
+    {
+        "id": "PD-3856",
+        "product_name": "Wi-Fi Enabled Smart Light Switch",
+        "description": "Control your lights remotely with a smartphone app.",
+        "price": 405,
+        "release": "2023-07-18",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-1668",
+        "product_name": "Lemon Garlic Shrimp",
+        "description": "Marinated shrimp in a garlic and lemon sauce, perfect for grilling.",
+        "price": 860,
+        "release": "2023-11-09",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-9270",
+        "product_name": "Italian Breadsticks",
+        "description": "Crispy breadsticks seasoned with herbs and garlic.",
+        "price": 107,
+        "release": "2018-06-10",
+        "department": "Outdoors"
+    },
+    {
+        "id": "PD-5768",
+        "product_name": "Camping Chair with Cooler",
+        "description": "Foldable chair equipped with a cooler pouch.",
+        "price": 204,
+        "release": "2020-06-03",
+        "department": "Books"
+    },
+    {
+        "id": "PD-8690",
+        "product_name": "Cranberry Juice",
+        "description": "Refreshing cranberry juice with no added sugar.",
+        "price": 319,
+        "release": "2023-07-18",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-2175",
+        "product_name": "Puzzle",
+        "description": "Challenging 1000-piece jigsaw puzzle for all ages.",
+        "price": 1436,
+        "release": "2023-10-06",
+        "department": "Home"
+    },
+    {
+        "id": "PD-1439",
+        "product_name": "Garden Tool Belt",
+        "description": "Handy belt for carrying garden tools while working.",
+        "price": 840,
+        "release": "2023-05-23",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-7486",
+        "product_name": "Maple Pecan Granola",
+        "description": "Crunchy granola with maple syrup and pecans, great for breakfast or snacking.",
+        "price": 777,
+        "release": "2020-03-30",
+        "department": "Games"
+    },
+    {
+        "id": "PD-9998",
+        "product_name": "Rice Pilaf Mix",
+        "description": "Quick and easy rice pilaf mix for side dishes.",
+        "price": 542,
+        "release": "2020-09-05",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-1833",
+        "product_name": "Portable Ice Maker",
+        "description": "Compact ice maker for creating ice at home or in offices.",
+        "price": 1305,
+        "release": "2022-10-26",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-5745",
+        "product_name": "Ginger Turmeric Latte Mix",
+        "description": "A warming blend of ginger and turmeric for lattes.",
+        "price": 1306,
+        "release": "2023-09-16",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-3630",
+        "product_name": "Pasta Maker Machine",
+        "description": "Manual pasta maker for creating fresh pasta at home.",
+        "price": 1124,
+        "release": "2023-12-30",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-3068",
+        "product_name": "Indoor Grill",
+        "description": "Electric indoor grill for quick meals.",
+        "price": 791,
+        "release": "2018-05-04",
+        "department": "Games"
+    },
+    {
+        "id": "PD-2529",
+        "product_name": "Garlic & Herb Goat Cheese",
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers.",
+        "price": 250,
+        "release": "2019-05-03",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-6336",
+        "product_name": "Wall Art Stickers",
+        "description": "Removable wall art stickers for home decoration.",
+        "price": 1423,
+        "release": "2024-08-07",
+        "department": "Grocery"
+    },
+    {
+        "id": "PD-2534",
+        "product_name": "Herb Seasoned Croutons",
+        "description": "Crunchy croutons with a blend of herbs for salads.",
+        "price": 781,
+        "release": "2018-03-22",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-2708",
+        "product_name": "Pet Training Clicker",
+        "description": "Simple tool to train your pet with positive reinforcement.",
+        "price": 130,
+        "release": "2024-07-27",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-2384",
+        "product_name": "Yoga Mat",
+        "description": "Non-slip yoga mat for optimal grip and comfort.",
+        "price": 893,
+        "release": "2021-05-15",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-5499",
+        "product_name": "Granola",
+        "description": "Crunchy and flavorful mix of oats and honey.",
+        "price": 1330,
+        "release": "2025-01-22",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-3604",
+        "product_name": "Basil-infused Olive Oil",
+        "description": "Extra virgin olive oil infused with fresh basil.",
+        "price": 290,
+        "release": "2021-09-30",
+        "department": "Health"
+    },
+    {
+        "id": "PD-5865",
+        "product_name": "Outdoor Mosquito Repellent Lantern",
+        "description": "Lantern that repels mosquitoes while providing light.",
+        "price": 1448,
+        "release": "2022-10-26",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-1301",
+        "product_name": "Hand Crank Blender",
+        "description": "Manual blender for smoothies and mixing ingredients on the go.",
+        "price": 828,
+        "release": "2025-01-27",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-4455",
+        "product_name": "Bluetooth Sleep Headphones",
+        "description": "Comfortable wireless headphones designed for sleeping.",
+        "price": 1152,
+        "release": "2023-10-25",
+        "department": "Music"
+    },
+    {
+        "id": "PD-2862",
+        "product_name": "Raisin Cinnamon Granola",
+        "description": "Crunchy granola with raisins and cinnamon for a delightful breakfast.",
+        "price": 840,
+        "release": "2024-11-10",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-4036",
+        "product_name": "Stainless Steel Mixing Bowls",
+        "description": "Set of versatile mixing bowls for cooking.",
+        "price": 1195,
+        "release": "2024-08-16",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-7826",
+        "product_name": "Elegant Maxi Skirt",
+        "description": "Float through the day in this beautiful floor-length skirt.",
+        "price": 982,
+        "release": "2023-07-29",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-8317",
+        "product_name": "Computer Monitor Stand",
+        "description": "Ergonomic monitor stand for improved workspace organization.",
+        "price": 632,
+        "release": "2023-03-20",
+        "department": "Electronics"
+    },
+    {
+        "id": "PD-2647",
+        "product_name": "Peach Mango Smoothie",
+        "description": "A refreshing blend of peaches and mangoes for a delicious smoothie.",
+        "price": 1285,
+        "release": "2023-08-03",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-6692",
+        "product_name": "Puzzle Mat",
+        "description": "Foldable mat for jigsaw puzzle assembly.",
+        "price": 366,
+        "release": "2022-07-25",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-5031",
+        "product_name": "Trail Mix (Deluxe)",
+        "description": "A delightful mix of nuts, fruit, and chocolate.",
+        "price": 990,
+        "release": "2022-06-05",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-1145",
+        "product_name": "Garam Masala Spice Blend",
+        "description": "A fragrant Indian spice blend for curries and stews.",
+        "price": 1069,
+        "release": "2021-09-09",
+        "department": "Outdoors"
+    },
+    {
+        "id": "PD-6826",
+        "product_name": "Bodyweight Resistance Bands",
+        "description": "Set of resistance bands for strength training at home.",
+        "price": 572,
+        "release": "2019-08-16",
+        "department": "Games"
+    },
+    {
+        "id": "PD-3299",
+        "product_name": "Balsamic Salad Dressing",
+        "description": "Tangy and sweet balsamic dressing, perfect for salads.",
+        "price": 1126,
+        "release": "2022-04-18",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-8619",
+        "product_name": "Chocolate Syrup",
+        "description": "Rich chocolate syrup for ice cream or beverages.",
+        "price": 649,
+        "release": "2019-12-14",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-2781",
+        "product_name": "Feta Cheese",
+        "description": "Tangy feta cheese, perfect for salads and sandwiches.",
+        "price": 255,
+        "release": "2018-08-31",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-1718",
+        "product_name": "Coffee Capsule Dispenser",
+        "description": "Organize coffee capsules with this stylish dispenser.",
+        "price": 1063,
+        "release": "2022-03-11",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-2976",
+        "product_name": "Popcorn Chicken",
+        "description": "Crispy chicken bites, perfect for dipping.",
+        "price": 1096,
+        "release": "2022-11-03",
+        "department": "Outdoors"
+    },
+    {
+        "id": "PD-7078",
+        "product_name": "LED Makeup Mirror",
+        "description": "Illuminated vanity mirror with adjustable brightness settings.",
+        "price": 1487,
+        "release": "2023-08-01",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-9612",
+        "product_name": "Portable Pet Stroller",
+        "description": "Convenient stroller for pets to enjoy outdoor walks.",
+        "price": 439,
+        "release": "2023-04-17",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-5241",
+        "product_name": "Dog Training Whistle",
+        "description": "High-frequency whistle for training your dog effectively.",
+        "price": 537,
+        "release": "2018-02-15",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-3319",
+        "product_name": "Vegetarian Sausage Links",
+        "description": "Plant-based sausage links with spices and herbs.",
+        "price": 1118,
+        "release": "2021-05-26",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-6925",
+        "product_name": "Mediterranean Chickpea Salad",
+        "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",
+        "price": 392,
+        "release": "2019-09-23",
+        "department": "Movies"
+    },
+    {
+        "id": "PD-8920",
+        "product_name": "Dark Chocolate Covered Almonds",
+        "description": "Roasted almonds dipped in rich dark chocolate.",
+        "price": 423,
+        "release": "2023-04-09",
+        "department": "Music"
+    },
+    {
+        "id": "PD-1271",
+        "product_name": "Garden Hose Reel",
+        "description": "Compact hose reel to keep your garden tidy.",
+        "price": 1089,
+        "release": "2024-11-24",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-8027",
+        "product_name": "Chia Seeds",
+        "description": "Nutty flavored chia seeds, packed with nutrients.",
+        "price": 1282,
+        "release": "2023-10-02",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-8584",
+        "product_name": "Electric Heat Press Machine",
+        "description": "Ideal for creating custom designs on t-shirts and fabrics.",
+        "price": 207,
+        "release": "2020-07-19",
+        "department": "Music"
+    },
+    {
+        "id": "PD-9130",
+        "product_name": "Ice Cream",
+        "description": "Rich and creamy ice cream, available in various flavors.",
+        "price": 523,
+        "release": "2019-04-15",
+        "department": "Tools"
+    },
+    {
+        "id": "PD-7883",
+        "product_name": "Stainless Steel Grater",
+        "description": "Multi-functional grater for cheese and vegetables.",
+        "price": 751,
+        "release": "2019-04-22",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-7800",
+        "product_name": "Savory Quinoa Pudding",
+        "description": "A delicious savory quinoa pudding, great as a side dish.",
+        "price": 169,
+        "release": "2020-07-28",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-7217",
+        "product_name": "Window Blinds",
+        "description": "Adjustable window blinds for privacy and light control.",
+        "price": 981,
+        "release": "2021-12-27",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-5041",
+        "product_name": "Kids' Building Blocks",
+        "description": "Colorful building blocks for creative play.",
+        "price": 921,
+        "release": "2018-07-19",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-3748",
+        "product_name": "Portable Solar Charger",
+        "description": "Solar-powered charger for smartphones and tablets.",
+        "price": 1193,
+        "release": "2024-06-05",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-6141",
+        "product_name": "LED Flashing Pet Collar",
+        "description": "Safety collar with flashing lights for pets during night walks.",
+        "price": 1497,
+        "release": "2020-09-08",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-3129",
+        "product_name": "Organic Baby Carrots",
+        "description": "Fresh and crunchy baby carrots ready for snacking.",
+        "price": 529,
+        "release": "2019-10-15",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-1664",
+        "product_name": "Rice Noodles",
+        "description": "Thin rice noodles, ideal for stir-fries and soups.",
+        "price": 793,
+        "release": "2022-04-07",
+        "department": "Games"
+    },
+    {
+        "id": "PD-2005",
+        "product_name": "Organic Italian Seasoning",
+        "description": "A blend of dried herbs commonly used in Italian cooking.",
+        "price": 758,
+        "release": "2024-03-04",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-1191",
+        "product_name": "Portable UV Sterilizer",
+        "description": "Compact sterilizer for disinfecting small items.",
+        "price": 486,
+        "release": "2018-07-13",
+        "department": "Home"
+    },
+    {
+        "id": "PD-3833",
+        "product_name": "Vegetable Samosas",
+        "description": "Crispy pastry filled with seasoned vegetables.",
+        "price": 1155,
+        "release": "2023-01-15",
+        "department": "Electronics"
+    },
+    {
+        "id": "PD-4059",
+        "product_name": "Herb Seasoned Rice",
+        "description": "A flavorful rice side dish seasoned with herbs and spices.",
+        "price": 831,
+        "release": "2020-05-14",
+        "department": "Industrial"
+    },
+    {
+        "id": "PD-8414",
+        "product_name": "Weighted Blanket for Adults",
+        "description": "A calming blanket that provides gentle pressure for relaxation.",
+        "price": 107,
+        "release": "2018-05-30",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-7913",
+        "product_name": "Chilli Lime Corn on the Cob",
+        "description": "Corn on the cob seasoned with chili and lime for a spicy kick.",
+        "price": 952,
+        "release": "2018-11-27",
+        "department": "Electronics"
+    },
+    {
+        "id": "PD-8715",
+        "product_name": "Snack Container Set",
+        "description": "Stackable containers for organizing snacks and treats.",
+        "price": 476,
+        "release": "2018-07-06",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-8896",
+        "product_name": "Feta Cheese",
+        "description": "Tangy feta cheese, perfect for salads and sandwiches.",
+        "price": 816,
+        "release": "2020-09-18",
+        "department": "Jewelry"
+    },
+    {
+        "id": "PD-3776",
+        "product_name": "Herb Seasoned Croutons",
+        "description": "Crunchy croutons with a blend of herbs for salads.",
+        "price": 242,
+        "release": "2020-04-27",
+        "department": "Computers"
+    },
+    {
+        "id": "PD-1620",
+        "product_name": "Adjustable Kitchen Broom Stand",
+        "description": "Space-saving broom holder for organized cleaning supplies.",
+        "price": 1311,
+        "release": "2019-02-28",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-1820",
+        "product_name": "Digital Meat Thermometer",
+        "description": "Instant-read thermometer for precise cooking temperatures.",
+        "price": 462,
+        "release": "2018-08-23",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-1274",
+        "product_name": "Quinoa and Kale Salad Kit",
+        "description": "Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",
+        "price": 1187,
+        "release": "2023-04-15",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-3589",
+        "product_name": "Cinnamon Sugar Tortilla Chips",
+        "description": "Crispy chips with a sweet twist, perfect for dipping.",
+        "price": 1131,
+        "release": "2023-12-25",
+        "department": "Movies"
+    },
+    {
+        "id": "PD-7062",
+        "product_name": "Adjustable Yoga Mat Strap",
+        "description": "Convenient strap for carrying yoga mats to class.",
+        "price": 806,
+        "release": "2021-09-21",
+        "department": "Health"
+    },
+    {
+        "id": "PD-8090",
+        "product_name": "Linen Trousers",
+        "description": "Breathable linen trousers perfect for hot weather.",
+        "price": 910,
+        "release": "2018-11-22",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-6129",
+        "product_name": "Peanut Butter",
+        "description": "Creamy and smooth peanut butter, perfect for sandwiches.",
+        "price": 414,
+        "release": "2022-05-02",
+        "department": "Beauty"
+    },
+    {
+        "id": "PD-2896",
+        "product_name": "Rechargeable Hand Warmer",
+        "description": "Portable rechargeable warmer for cold days.",
+        "price": 983,
+        "release": "2020-05-22",
+        "department": "Home"
+    },
+    {
+        "id": "PD-9927",
+        "product_name": "Whisk Set",
+        "description": "Set of whisks in various sizes for cooking.",
+        "price": 488,
+        "release": "2018-02-27",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-7259",
+        "product_name": "Cherry Almond Protein Bar",
+        "description": "Nutritious protein bar with cherry and almond flavor, great for on-the-go.",
+        "price": 569,
+        "release": "2020-11-09",
+        "department": "Games"
+    },
+    {
+        "id": "PD-5647",
+        "product_name": "Herb Seasoned Couscous",
+        "description": "Fluffy couscous seasoned with a blend of herbs, perfect as a side dish.",
+        "price": 1175,
+        "release": "2023-11-16",
+        "department": "Clothing"
+    },
+    {
+        "id": "PD-6029",
+        "product_name": "Under Desk Footrest",
+        "description": "Adjustable footrest for improved comfort while sitting.",
+        "price": 1140,
+        "release": "2023-12-09",
+        "department": "Kids"
+    },
+    {
+        "id": "PD-3427",
+        "product_name": "Organic Almond Flour",
+        "description": "Finely ground almonds for baking or cooking",
+        "price": 745,
+        "release": "2021-09-09",
+        "department": "Home"
+    },
+    {
+        "id": "PD-5788",
+        "product_name": "Magnetic Phone Car Mount",
+        "description": "Strong magnetic holder for smartphones in cars.",
+        "price": 322,
+        "release": "2019-06-19",
+        "department": "Sports"
+    },
+    {
+        "id": "PD-4506",
+        "product_name": "Coconut Curry Sauce",
+        "description": "A flavorful sauce made with coconut milk and spices.",
+        "price": 282,
+        "release": "2022-02-28",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-1771",
+        "product_name": "Teriyaki Stir-Fry Sauce",
+        "description": "Savory teriyaki sauce for stir-frying veggies or meats.",
+        "price": 531,
+        "release": "2024-05-07",
+        "department": "Industrial"
+    },
+    {
+        "id": "PD-4074",
+        "product_name": "Mini Cordless Vacuum Cleaner",
+        "description": "Handheld vacuum cleaner for quick and easy cleaning.",
+        "price": 1108,
+        "release": "2023-07-07",
+        "department": "Automotive"
+    },
+    {
+        "id": "PD-4014",
+        "product_name": "Peanut Butter Banana Smoothie",
+        "description": "Smooth and creamy smoothie made with peanut butter and banana.",
+        "price": 1420,
+        "release": "2024-06-05",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-1262",
+        "product_name": "Oven Mitts",
+        "description": "Silicone oven mitts for safe handling of hot cookware.",
+        "price": 868,
+        "release": "2022-10-10",
+        "department": "Home"
+    },
+    {
+        "id": "PD-5046",
+        "product_name": "Eco-Friendly Beeswax Wraps",
+        "description": "Reusable wraps for food storage, replacing plastic wraps.",
+        "price": 942,
+        "release": "2020-10-06",
+        "department": "Shoes"
+    },
+    {
+        "id": "PD-7848",
+        "product_name": "Honey Almond Granola Bars",
+        "description": "Chewy granola bars made with honey and almonds.",
+        "price": 1265,
+        "release": "2020-06-04",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-5193",
+        "product_name": "Protein Pancake Mix",
+        "description": "A protein-packed pancake mix for a nutritious breakfast.",
+        "price": 360,
+        "release": "2021-09-03",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-5018",
+        "product_name": "Adjustable Bar Stools",
+        "description": "Stylish bar stools with adjustable height and swivel features.",
+        "price": 1362,
+        "release": "2018-08-29",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-7396",
+        "product_name": "Essential White Button-Up",
+        "description": "A classic white button-up shirt for a polished appearance.",
+        "price": 294,
+        "release": "2024-12-17",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-2386",
+        "product_name": "Quinoa Salad",
+        "description": "A nutritious quinoa salad with veggies and dressing, ready-to-eat.",
+        "price": 899,
+        "release": "2019-12-16",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-8993",
+        "product_name": "Winter Insulated Jacket",
+        "description": "Warm and stylish jacket for cold weather.",
+        "price": 639,
+        "release": "2022-01-02",
+        "department": "Outdoors"
+    },
+    {
+        "id": "PD-3766",
+        "product_name": "Spicy Avocado Salsa",
+        "description": "A zesty salsa made from ripe avocados, tomatoes, onions, and jalape\u00c3\u00b1os, great for dipping or topping.",
+        "price": 1402,
+        "release": "2024-09-06",
+        "department": "Health"
+    },
+    {
+        "id": "PD-3411",
+        "product_name": "Natural Peanut Butter",
+        "description": "Creamy peanut butter with no added sugar or oils.",
+        "price": 537,
+        "release": "2019-04-17",
+        "department": "Garden"
+    },
+    {
+        "id": "PD-2529",
+        "product_name": "Dog Waste Bag Dispenser",
+        "description": "Convenient dispenser for dog waste bags on walks.",
+        "price": 1332,
+        "release": "2020-01-26",
+        "department": "Games"
+    },
+    {
+        "id": "PD-3841",
+        "product_name": "Smartphone Car Mount with Wireless Charging",
+        "description": "Secure phone mount that wirelessly charges your device while driving.",
+        "price": 472,
+        "release": "2022-01-25",
+        "department": "Baby"
+    },
+    {
+        "id": "PD-4532",
+        "product_name": "Sriracha Chili Sauce",
+        "description": "Spicy chili sauce with garlic and sugar for a flavor kick.",
+        "price": 1498,
+        "release": "2022-03-13",
+        "department": "Toys"
+    },
+    {
+        "id": "PD-1983",
+        "product_name": "Herbal Tea Sampler Box",
+        "description": "Assorted collection of herbal teas for relaxation and wellness.",
+        "price": 1343,
+        "release": "2019-02-04",
+        "department": "Baby"
+    }
+]
