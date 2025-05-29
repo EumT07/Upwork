@@ -28,8 +28,7 @@ I need a Python expert to automate the process of **cleaning Excel data** and mi
 
 ### **📦 Deliverables**  
 1. Scripts for end-to-end Excel → DB pipelines.  
-2. Sample test datasets + validation queries.  
-3. Documentation (setup/usage instructions).  
+2. Sample test datasets + validation queries. 
 
 **Budget:** Fixed or hourly (specify preference).  
 **Timeline:** 1 weeks/days.  
