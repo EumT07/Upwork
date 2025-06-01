@@ -1,6 +1,7 @@
 [
     {
         "id": "6838856afc13ae759f2854b0",
+        "company_id": "68388406fc13ae7541285206",
         "product_name": "Chunky Knit Sweater",
         "description": "Cozy oversized sweater perfect for chilly days with a textured knit design.",
         "price": 1267,
@@ -9,6 +10,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b1",
+        "company_id": "68388406fc13ae754128502e",
         "product_name": "Snack Container Set",
         "description": "Stackable containers for organizing snacks and treats.",
         "price": 248,
@@ -17,6 +19,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b2",
+        "company_id": "68388406fc13ae7541285047",
         "product_name": "Mediterranean Chickpea Salad",
         "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",
         "price": 732,
@@ -25,6 +28,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b3",
+        "company_id": "68388406fc13ae7541285050",
         "product_name": "Pine Nuts",
         "description": "Nutty flavor perfect for pesto and salads.",
         "price": 114,
@@ -33,6 +37,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b4",
+        "company_id": "68388406fc13ae7541285144",
         "product_name": "Relaxed Fit Henley Shirt",
         "description": "A comfortable henley shirt made of soft cotton, perfect for casual outings.",
         "price": 142,
@@ -41,6 +46,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b5",
+        "company_id": "68388406fc13ae75412851c4",
         "product_name": "Organic Coconut Oil",
         "description": "Cold-pressed coconut oil, perfect for cooking, baking, or skin care.",
         "price": 1217,
@@ -49,6 +55,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b6",
+        "company_id": "68388406fc13ae75412850f2",
         "product_name": "Bamboo Utensil Holder",
         "description": "Stylish holder for organizing cooking utensils.",
         "price": 515,
@@ -57,6 +64,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b7",
+        "company_id": "68388406fc13ae754128519a",
         "product_name": "Electric Blanket",
         "description": "Extra soft electric blanket with adjustable heat settings.",
         "price": 1300,
@@ -65,6 +73,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b8",
+        "company_id": "68388406fc13ae75412850d9",
         "product_name": "Handcrafted Wooden Coasters",
         "description": "Set of unique wooden coasters for drinks and decor.",
         "price": 1389,
@@ -73,6 +82,7 @@
     },
     {
         "id": "6838856afc13ae759f2854b9",
+        "company_id": "68388406fc13ae7541285146",
         "product_name": "Pressure Cooker",
         "description": "Instant pressure cooker with multiple cooking settings.",
         "price": 501,
@@ -81,6 +91,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ba",
+        "company_id": "68388406fc13ae7541285050",
         "product_name": "Garlic and Herb Cream Cheese",
         "description": "Spreadable cream cheese with garlic and herbs.",
         "price": 519,
@@ -89,6 +100,7 @@
     },
     {
         "id": "6838856afc13ae759f2854bb",
+        "company_id": "68388406fc13ae7541285044",
         "product_name": "Portable Solar Camp Shower",
         "description": "Portable solar shower for camping and outdoor use.",
         "price": 1340,
@@ -97,6 +109,7 @@
     },
     {
         "id": "6838856afc13ae759f2854bc",
+        "company_id": "68388406fc13ae75412851a7",
         "product_name": "Portable Solar Camp Shower",
         "description": "Portable solar shower for camping and outdoor use.",
         "price": 1415,
@@ -105,6 +118,7 @@
     },
     {
         "id": "6838856afc13ae759f2854bd",
+        "company_id": "68388406fc13ae75412851de",
         "product_name": "Classic Vanilla Fudge",
         "description": "Creamy vanilla fudge, a sweet treat for all occasions.",
         "price": 1431,
@@ -113,6 +127,7 @@
     },
     {
         "id": "6838856afc13ae759f2854be",
+        "company_id": "68388406fc13ae75412850a4",
         "product_name": "Sea Salt Caramel Popcorn",
         "description": "Sweet and salty popcorn with sea salt and caramel, a tasty treat.",
         "price": 536,
@@ -121,6 +136,7 @@
     },
     {
         "id": "6838856afc13ae759f2854bf",
+        "company_id": "68388406fc13ae7541285100",
         "product_name": "Coconut Granola",
         "description": "Crunchy granola mixed with coconut flakes.",
         "price": 500,
@@ -129,6 +145,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c0",
+        "company_id": "68388406fc13ae7541285215",
         "product_name": "Dish Rack",
         "description": "Collapsible dish rack for kitchen countertop use.",
         "price": 1279,
@@ -137,6 +154,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c1",
+        "company_id": "68388406fc13ae7541285178",
         "product_name": "High-Top Leather Boots",
         "description": "Durable high-top leather boots for the stylish adventurer.",
         "price": 363,
@@ -145,6 +163,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c2",
+        "company_id": "68388406fc13ae7541285090",
         "product_name": "Fruit and Nut Bars",
         "description": "Individually packaged bars made with dried fruits and nuts.",
         "price": 1383,
@@ -153,6 +172,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c3",
+        "company_id": "68388406fc13ae75412851bf",
         "product_name": "Hiking Boots",
         "description": "Comfortable hiking boots for outdoor adventures.",
         "price": 1435,
@@ -161,6 +181,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c4",
+        "company_id": "68388406fc13ae754128503a",
         "product_name": "Foot Massager Machine",
         "description": "Electric foot massager for relaxation and relief.",
         "price": 626,
@@ -169,6 +190,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c5",
+        "company_id": "68388406fc13ae75412850c8",
         "product_name": "Electric Fondue Pot",
         "description": "Set for making fondue at home.",
         "price": 862,
@@ -177,6 +199,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c6",
+        "company_id": "68388406fc13ae75412850a3",
         "product_name": "Red Lentils",
         "description": "Nutritious and quick-cooking red lentils.",
         "price": 885,
@@ -185,6 +208,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c7",
+        "company_id": "68388406fc13ae75412851fc",
         "product_name": "Smart Fitness Scale",
         "description": "Bluetooth scale that tracks body composition through an app.",
         "price": 1039,
@@ -193,6 +217,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c8",
+        "company_id": "68388406fc13ae754128512c",
         "product_name": "Garlic & Herb Goat Cheese",
         "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers.",
         "price": 1084,
@@ -201,6 +226,7 @@
     },
     {
         "id": "6838856afc13ae759f2854c9",
+        "company_id": "68388406fc13ae7541285062",
         "product_name": "Peach Preserves",
         "description": "Sweet and fruity peach preserves, perfect for spreading on toast.",
         "price": 571,
@@ -209,6 +235,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ca",
+        "company_id": "68388406fc13ae754128503e",
         "product_name": "Travel Hair Straightener",
         "description": "Compact hair straightener for travel.",
         "price": 1159,
@@ -217,6 +244,7 @@
     },
     {
         "id": "6838856afc13ae759f2854cb",
+        "company_id": "68388406fc13ae75412850fa",
         "product_name": "Miso Dressing",
         "description": "Flavorful dressing made with miso paste",
         "price": 889,
@@ -225,6 +253,7 @@
     },
     {
         "id": "6838856afc13ae759f2854cc",
+        "company_id": "68388406fc13ae75412850e4",
         "product_name": "Kids' Art Easel",
         "description": "Double-sided art easel for painting and drawing.",
         "price": 599,
@@ -233,6 +262,7 @@
     },
     {
         "id": "6838856afc13ae759f2854cd",
+        "company_id": "68388406fc13ae7541285034",
         "product_name": "Pesto Pasta Sauce",
         "description": "Rich basil pesto sauce for pasta and more.",
         "price": 918,
@@ -241,6 +271,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ce",
+        "company_id": "68388406fc13ae7541285193",
         "product_name": "Kids' Gardening Kit",
         "description": "Complete set designed for children to learn gardening.",
         "price": 196,
@@ -249,6 +280,7 @@
     },
     {
         "id": "6838856afc13ae759f2854cf",
+        "company_id": "68388406fc13ae7541285182",
         "product_name": "Electric Food Steamer",
         "description": "Electric food steamer for healthy cooking.",
         "price": 641,
@@ -257,6 +289,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d0",
+        "company_id": "68388406fc13ae754128507e",
         "product_name": "Cinnamon Sugar Donuts",
         "description": "Delicious mini donuts dusted with cinnamon sugar.",
         "price": 384,
@@ -265,6 +298,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d1",
+        "company_id": "68388406fc13ae75412850b2",
         "product_name": "Roasted Red Pepper Hummus",
         "description": "A creamy and flavorful hummus made with roasted red peppers.",
         "price": 923,
@@ -273,6 +307,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d2",
+        "company_id": "68388406fc13ae7541285083",
         "product_name": "Oatmeal Raisin Cookies",
         "description": "Delicious cookies packed with oats and raisins.",
         "price": 103,
@@ -281,6 +316,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d3",
+        "company_id": "68388406fc13ae75412850f4",
         "product_name": "Chili Lime Seasoning",
         "description": "Zesty seasoning great for tacos and grilling.",
         "price": 1235,
@@ -289,6 +325,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d4",
+        "company_id": "68388406fc13ae7541285052",
         "product_name": "Robot Vacuum Cleaner",
         "description": "Smart robotic vacuum for automatic cleaning.",
         "price": 290,
@@ -297,6 +334,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d5",
+        "company_id": "68388406fc13ae7541285157",
         "product_name": "Frozen Mixed Berries",
         "description": "A mix of strawberries, blueberries, and raspberries.",
         "price": 1270,
@@ -305,6 +343,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d6",
+        "company_id": "68388406fc13ae754128504f",
         "product_name": "Ultraviolet Phone Sanitizer",
         "description": "UV sanitizer that kills germs on your smartphone.",
         "price": 1273,
@@ -313,6 +352,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d7",
+        "company_id": "68388406fc13ae75412850ad",
         "product_name": "Baked Falafel Balls",
         "description": "Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads.",
         "price": 1092,
@@ -321,6 +361,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d8",
+        "company_id": "68388406fc13ae754128507b",
         "product_name": "Travel Sewing Kit",
         "description": "Compact sewing kit for travel emergencies.",
         "price": 195,
@@ -329,6 +370,7 @@
     },
     {
         "id": "6838856afc13ae759f2854d9",
+        "company_id": "68388406fc13ae7541285147",
         "product_name": "Children's Educational Workbook",
         "description": "Activity workbook for early learning and fun.",
         "price": 1252,
@@ -337,6 +379,7 @@
     },
     {
         "id": "6838856afc13ae759f2854da",
+        "company_id": "68388406fc13ae754128520a",
         "product_name": "Basil Tomato Soup",
         "description": "Rich tomato soup flavored with fresh basil, ready to heat up.",
         "price": 1103,
@@ -345,6 +388,7 @@
     },
     {
         "id": "6838856afc13ae759f2854db",
+        "company_id": "68388406fc13ae7541285089",
         "product_name": "Tattoo Kit",
         "description": "Complete tattoo kit for beginners and professionals.",
         "price": 1408,
@@ -353,6 +397,7 @@
     },
     {
         "id": "6838856afc13ae759f2854dc",
+        "company_id": "68388406fc13ae754128520c",
         "product_name": "Non-Stick Grill Mat",
         "description": "Reusable mat that prevents food from sticking to the grill.",
         "price": 1022,
@@ -361,6 +406,7 @@
     },
     {
         "id": "6838856afc13ae759f2854dd",
+        "company_id": "68388406fc13ae754128520a",
         "product_name": "LED Christmas Lights",
         "description": "Eco-friendly LED lights for festive decorations.",
         "price": 606,
@@ -369,6 +415,7 @@
     },
     {
         "id": "6838856afc13ae759f2854de",
+        "company_id": "68388406fc13ae7541285200",
         "product_name": "Magnetic Spice Jars",
         "description": "Convenient magnetic jars for easy spice storage.",
         "price": 469,
@@ -377,6 +424,7 @@
     },
     {
         "id": "6838856afc13ae759f2854df",
+        "company_id": "68388406fc13ae75412850e2",
         "product_name": "Brazil Nuts",
         "description": "Rich in selenium, perfect for snacking or baking.",
         "price": 449,
@@ -385,6 +433,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e0",
+        "company_id": "68388406fc13ae7541285064",
         "product_name": "Buffalo Style Cauliflower Bites",
         "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer.",
         "price": 1136,
@@ -393,6 +442,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e1",
+        "company_id": "68388406fc13ae75412850bf",
         "product_name": "BBQ Lentil Chips",
         "description": "Savory lentil chips with BBQ flavor",
         "price": 546,
@@ -401,6 +451,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e2",
+        "company_id": "68388406fc13ae75412851dd",
         "product_name": "Trendy Bomber Jacket",
         "description": "A fashion-forward bomber jacket to elevate your casual looks.",
         "price": 1310,
@@ -409,6 +460,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e3",
+        "company_id": "68388406fc13ae7541285083",
         "product_name": "Smartphone Hand Grip",
         "description": "Sturdy grip to hold your phone securely while taking selfies.",
         "price": 271,
@@ -417,6 +469,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e4",
+        "company_id": "68388406fc13ae7541285105",
         "product_name": "Decorative Wall Tapestry",
         "description": "Colorful tapestry to add charm to any room.",
         "price": 859,
@@ -425,6 +478,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e5",
+        "company_id": "68388406fc13ae75412850c8",
         "product_name": "Backpack",
         "description": "Durable and spacious backpack for travel and school.",
         "price": 1049,
@@ -433,6 +487,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e6",
+        "company_id": "68388406fc13ae754128514f",
         "product_name": "Wi-Fi Enabled Smart Light Switch",
         "description": "Control your lights remotely with a smartphone app.",
         "price": 405,
@@ -441,6 +496,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e7",
+        "company_id": "68388406fc13ae7541285192",
         "product_name": "Lemon Garlic Shrimp",
         "description": "Marinated shrimp in a garlic and lemon sauce, perfect for grilling.",
         "price": 860,
@@ -449,6 +505,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e8",
+        "company_id": "68388406fc13ae75412851b1",
         "product_name": "Italian Breadsticks",
         "description": "Crispy breadsticks seasoned with herbs and garlic.",
         "price": 107,
@@ -457,6 +514,7 @@
     },
     {
         "id": "6838856afc13ae759f2854e9",
+        "company_id": "68388406fc13ae75412850cb",
         "product_name": "Camping Chair with Cooler",
         "description": "Foldable chair equipped with a cooler pouch.",
         "price": 204,
@@ -465,6 +523,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ea",
+        "company_id": "68388406fc13ae754128503f",
         "product_name": "Cranberry Juice",
         "description": "Refreshing cranberry juice with no added sugar.",
         "price": 319,
@@ -473,6 +532,7 @@
     },
     {
         "id": "6838856afc13ae759f2854eb",
+        "company_id": "68388406fc13ae7541285122",
         "product_name": "Puzzle",
         "description": "Challenging 1000-piece jigsaw puzzle for all ages.",
         "price": 1436,
@@ -481,6 +541,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ec",
+        "company_id": "68388406fc13ae754128520c",
         "product_name": "Garden Tool Belt",
         "description": "Handy belt for carrying garden tools while working.",
         "price": 840,
@@ -489,6 +550,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ed",
+        "company_id": "68388406fc13ae7541285069",
         "product_name": "Maple Pecan Granola",
         "description": "Crunchy granola with maple syrup and pecans, great for breakfast or snacking.",
         "price": 777,
@@ -497,6 +559,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ee",
+        "company_id": "68388406fc13ae7541285119",
         "product_name": "Rice Pilaf Mix",
         "description": "Quick and easy rice pilaf mix for side dishes.",
         "price": 542,
@@ -505,6 +568,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ef",
+        "company_id": "68388406fc13ae7541285208",
         "product_name": "Portable Ice Maker",
         "description": "Compact ice maker for creating ice at home or in offices.",
         "price": 1305,
@@ -513,6 +577,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f0",
+        "company_id": "68388406fc13ae75412850f5",
         "product_name": "Ginger Turmeric Latte Mix",
         "description": "A warming blend of ginger and turmeric for lattes.",
         "price": 1306,
@@ -521,6 +586,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f1",
+        "company_id": "68388406fc13ae7541285034",
         "product_name": "Pasta Maker Machine",
         "description": "Manual pasta maker for creating fresh pasta at home.",
         "price": 1124,
@@ -529,6 +595,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f2",
+        "company_id": "68388406fc13ae75412851c7",
         "product_name": "Indoor Grill",
         "description": "Electric indoor grill for quick meals.",
         "price": 791,
@@ -537,6 +604,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f3",
+        "company_id": "68388406fc13ae7541285144",
         "product_name": "Garlic & Herb Goat Cheese",
         "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers.",
         "price": 250,
@@ -545,6 +613,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f4",
+        "company_id": "68388406fc13ae7541285082",
         "product_name": "Wall Art Stickers",
         "description": "Removable wall art stickers for home decoration.",
         "price": 1423,
@@ -553,6 +622,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f5",
+        "company_id": "68388406fc13ae7541285102",
         "product_name": "Herb Seasoned Croutons",
         "description": "Crunchy croutons with a blend of herbs for salads.",
         "price": 781,
@@ -561,6 +631,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f6",
+        "company_id": "68388406fc13ae75412851d1",
         "product_name": "Pet Training Clicker",
         "description": "Simple tool to train your pet with positive reinforcement.",
         "price": 130,
@@ -569,6 +640,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f7",
+        "company_id": "68388406fc13ae7541285196",
         "product_name": "Yoga Mat",
         "description": "Non-slip yoga mat for optimal grip and comfort.",
         "price": 893,
@@ -577,6 +649,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f8",
+        "company_id": "68388406fc13ae7541285147",
         "product_name": "Granola",
         "description": "Crunchy and flavorful mix of oats and honey.",
         "price": 1330,
@@ -585,6 +658,7 @@
     },
     {
         "id": "6838856afc13ae759f2854f9",
+        "company_id": "68388406fc13ae75412850a7",
         "product_name": "Basil-infused Olive Oil",
         "description": "Extra virgin olive oil infused with fresh basil.",
         "price": 290,
@@ -593,6 +667,7 @@
     },
     {
         "id": "6838856afc13ae759f2854fa",
+        "company_id": "68388406fc13ae7541285164",
         "product_name": "Outdoor Mosquito Repellent Lantern",
         "description": "Lantern that repels mosquitoes while providing light.",
         "price": 1448,
@@ -601,6 +676,7 @@
     },
     {
         "id": "6838856afc13ae759f2854fb",
+        "company_id": "68388406fc13ae7541285107",
         "product_name": "Hand Crank Blender",
         "description": "Manual blender for smoothies and mixing ingredients on the go.",
         "price": 828,
@@ -609,6 +685,7 @@
     },
     {
         "id": "6838856afc13ae759f2854fc",
+        "company_id": "68388406fc13ae75412851af",
         "product_name": "Bluetooth Sleep Headphones",
         "description": "Comfortable wireless headphones designed for sleeping.",
         "price": 1152,
@@ -617,6 +694,7 @@
     },
     {
         "id": "6838856afc13ae759f2854fd",
+        "company_id": "68388406fc13ae75412851fe",
         "product_name": "Raisin Cinnamon Granola",
         "description": "Crunchy granola with raisins and cinnamon for a delightful breakfast.",
         "price": 840,
@@ -625,6 +703,7 @@
     },
     {
         "id": "6838856afc13ae759f2854fe",
+        "company_id": "68388406fc13ae754128516c",
         "product_name": "Stainless Steel Mixing Bowls",
         "description": "Set of versatile mixing bowls for cooking.",
         "price": 1195,
@@ -633,6 +712,7 @@
     },
     {
         "id": "6838856afc13ae759f2854ff",
+        "company_id": "68388406fc13ae7541285138",
         "product_name": "Elegant Maxi Skirt",
         "description": "Float through the day in this beautiful floor-length skirt.",
         "price": 982,
@@ -641,6 +721,7 @@
     },
     {
         "id": "6838856afc13ae759f285500",
+        "company_id": "68388406fc13ae75412850d9",
         "product_name": "Computer Monitor Stand",
         "description": "Ergonomic monitor stand for improved workspace organization.",
         "price": 632,
@@ -649,6 +730,7 @@
     },
     {
         "id": "6838856afc13ae759f285501",
+        "company_id": "68388406fc13ae7541285124",
         "product_name": "Peach Mango Smoothie",
         "description": "A refreshing blend of peaches and mangoes for a delicious smoothie.",
         "price": 1285,
@@ -657,6 +739,7 @@
     },
     {
         "id": "6838856afc13ae759f285502",
+        "company_id": "68388406fc13ae7541285130",
         "product_name": "Puzzle Mat",
         "description": "Foldable mat for jigsaw puzzle assembly.",
         "price": 366,
@@ -665,6 +748,7 @@
     },
     {
         "id": "6838856afc13ae759f285503",
+        "company_id": "68388406fc13ae7541285154",
         "product_name": "Trail Mix (Deluxe)",
         "description": "A delightful mix of nuts, fruit, and chocolate.",
         "price": 990,
@@ -673,6 +757,7 @@
     },
     {
         "id": "6838856afc13ae759f285504",
+        "company_id": "68388406fc13ae7541285147",
         "product_name": "Garam Masala Spice Blend",
         "description": "A fragrant Indian spice blend for curries and stews.",
         "price": 1069,
@@ -681,6 +766,7 @@
     },
     {
         "id": "6838856afc13ae759f285505",
+        "company_id": "68388406fc13ae75412850b0",
         "product_name": "Bodyweight Resistance Bands",
         "description": "Set of resistance bands for strength training at home.",
         "price": 572,
@@ -689,6 +775,7 @@
     },
     {
         "id": "6838856afc13ae759f285506",
+        "company_id": "68388406fc13ae754128508c",
         "product_name": "Balsamic Salad Dressing",
         "description": "Tangy and sweet balsamic dressing, perfect for salads.",
         "price": 1126,
@@ -697,6 +784,7 @@
     },
     {
         "id": "6838856afc13ae759f285507",
+        "company_id": "68388406fc13ae7541285122",
         "product_name": "Chocolate Syrup",
         "description": "Rich chocolate syrup for ice cream or beverages.",
         "price": 649,
@@ -705,6 +793,7 @@
     },
     {
         "id": "6838856afc13ae759f285508",
+        "company_id": "68388406fc13ae754128510c",
         "product_name": "Feta Cheese",
         "description": "Tangy feta cheese, perfect for salads and sandwiches.",
         "price": 255,
@@ -713,6 +802,7 @@
     },
     {
         "id": "6838856afc13ae759f285509",
+        "company_id": "68388406fc13ae75412850d9",
         "product_name": "Coffee Capsule Dispenser",
         "description": "Organize coffee capsules with this stylish dispenser.",
         "price": 1063,
@@ -721,6 +811,7 @@
     },
     {
         "id": "6838856afc13ae759f28550a",
+        "company_id": "68388406fc13ae75412851a6",
         "product_name": "Popcorn Chicken",
         "description": "Crispy chicken bites, perfect for dipping.",
         "price": 1096,
@@ -729,6 +820,7 @@
     },
     {
         "id": "6838856afc13ae759f28550b",
+        "company_id": "68388406fc13ae75412850f3",
         "product_name": "LED Makeup Mirror",
         "description": "Illuminated vanity mirror with adjustable brightness settings.",
         "price": 1487,
@@ -737,6 +829,7 @@
     },
     {
         "id": "6838856afc13ae759f28550c",
+        "company_id": "68388406fc13ae75412850b6",
         "product_name": "Portable Pet Stroller",
         "description": "Convenient stroller for pets to enjoy outdoor walks.",
         "price": 439,
@@ -745,6 +838,7 @@
     },
     {
         "id": "6838856afc13ae759f28550d",
+        "company_id": "68388406fc13ae75412851d9",
         "product_name": "Dog Training Whistle",
         "description": "High-frequency whistle for training your dog effectively.",
         "price": 537,
@@ -753,6 +847,7 @@
     },
     {
         "id": "6838856afc13ae759f28550e",
+        "company_id": "68388406fc13ae75412851a0",
         "product_name": "Vegetarian Sausage Links",
         "description": "Plant-based sausage links with spices and herbs.",
         "price": 1118,
@@ -761,6 +856,7 @@
     },
     {
         "id": "6838856afc13ae759f28550f",
+        "company_id": "68388406fc13ae754128511e",
         "product_name": "Mediterranean Chickpea Salad",
         "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",
         "price": 392,
@@ -769,6 +865,7 @@
     },
     {
         "id": "6838856afc13ae759f285510",
+        "company_id": "68388406fc13ae7541285151",
         "product_name": "Dark Chocolate Covered Almonds",
         "description": "Roasted almonds dipped in rich dark chocolate.",
         "price": 423,
@@ -777,6 +874,7 @@
     },
     {
         "id": "6838856afc13ae759f285511",
+        "company_id": "68388406fc13ae754128511f",
         "product_name": "Garden Hose Reel",
         "description": "Compact hose reel to keep your garden tidy.",
         "price": 1089,
@@ -785,6 +883,7 @@
     },
     {
         "id": "6838856afc13ae759f285512",
+        "company_id": "68388406fc13ae7541285067",
         "product_name": "Chia Seeds",
         "description": "Nutty flavored chia seeds, packed with nutrients.",
         "price": 1282,
@@ -793,6 +892,7 @@
     },
     {
         "id": "6838856afc13ae759f285513",
+        "company_id": "68388406fc13ae75412851e8",
         "product_name": "Electric Heat Press Machine",
         "description": "Ideal for creating custom designs on t-shirts and fabrics.",
         "price": 207,
@@ -801,6 +901,7 @@
     },
     {
         "id": "6838856afc13ae759f285514",
+        "company_id": "68388406fc13ae754128511c",
         "product_name": "Ice Cream",
         "description": "Rich and creamy ice cream, available in various flavors.",
         "price": 523,
@@ -809,6 +910,7 @@
     },
     {
         "id": "6838856afc13ae759f285515",
+        "company_id": "68388406fc13ae7541285047",
         "product_name": "Stainless Steel Grater",
         "description": "Multi-functional grater for cheese and vegetables.",
         "price": 751,
@@ -817,6 +919,7 @@
     },
     {
         "id": "6838856afc13ae759f285516",
+        "company_id": "68388406fc13ae75412851a5",
         "product_name": "Savory Quinoa Pudding",
         "description": "A delicious savory quinoa pudding, great as a side dish.",
         "price": 169,
@@ -825,6 +928,7 @@
     },
     {
         "id": "6838856afc13ae759f285517",
+        "company_id": "68388406fc13ae75412850c0",
         "product_name": "Window Blinds",
         "description": "Adjustable window blinds for privacy and light control.",
         "price": 981,
@@ -833,6 +937,7 @@
     },
     {
         "id": "6838856afc13ae759f285518",
+        "company_id": "68388406fc13ae75412851d6",
         "product_name": "Kids' Building Blocks",
         "description": "Colorful building blocks for creative play.",
         "price": 921,
@@ -841,6 +946,7 @@
     },
     {
         "id": "6838856afc13ae759f285519",
+        "company_id": "68388406fc13ae7541285182",
         "product_name": "Portable Solar Charger",
         "description": "Solar-powered charger for smartphones and tablets.",
         "price": 1193,
@@ -849,6 +955,7 @@
     },
     {
         "id": "6838856afc13ae759f28551a",
+        "company_id": "68388406fc13ae7541285061",
         "product_name": "LED Flashing Pet Collar",
         "description": "Safety collar with flashing lights for pets during night walks.",
         "price": 1497,
@@ -857,6 +964,7 @@
     },
     {
         "id": "6838856afc13ae759f28551b",
+        "company_id": "68388406fc13ae7541285151",
         "product_name": "Organic Baby Carrots",
         "description": "Fresh and crunchy baby carrots ready for snacking.",
         "price": 529,
@@ -865,6 +973,7 @@
     },
     {
         "id": "6838856afc13ae759f28551c",
+        "company_id": "68388406fc13ae75412850ae",
         "product_name": "Rice Noodles",
         "description": "Thin rice noodles, ideal for stir-fries and soups.",
         "price": 793,
@@ -873,6 +982,7 @@
     },
     {
         "id": "6838856afc13ae759f28551d",
+        "company_id": "68388406fc13ae7541285129",
         "product_name": "Organic Italian Seasoning",
         "description": "A blend of dried herbs commonly used in Italian cooking.",
         "price": 758,
@@ -881,6 +991,7 @@
     },
     {
         "id": "6838856afc13ae759f28551e",
+        "company_id": "68388406fc13ae754128504e",
         "product_name": "Portable UV Sterilizer",
         "description": "Compact sterilizer for disinfecting small items.",
         "price": 486,
@@ -889,6 +1000,7 @@
     },
     {
         "id": "6838856afc13ae759f28551f",
+        "company_id": "68388406fc13ae7541285154",
         "product_name": "Vegetable Samosas",
         "description": "Crispy pastry filled with seasoned vegetables.",
         "price": 1155,
@@ -897,6 +1009,7 @@
     },
     {
         "id": "6838856afc13ae759f285520",
+        "company_id": "68388406fc13ae7541285200",
         "product_name": "Herb Seasoned Rice",
         "description": "A flavorful rice side dish seasoned with herbs and spices.",
         "price": 831,
@@ -905,6 +1018,7 @@
     },
     {
         "id": "6838856afc13ae759f285521",
+        "company_id": "68388406fc13ae754128519f",
         "product_name": "Weighted Blanket for Adults",
         "description": "A calming blanket that provides gentle pressure for relaxation.",
         "price": 107,
@@ -913,6 +1027,7 @@
     },
     {
         "id": "6838856afc13ae759f285522",
+        "company_id": "68388406fc13ae7541285159",
         "product_name": "Chilli Lime Corn on the Cob",
         "description": "Corn on the cob seasoned with chili and lime for a spicy kick.",
         "price": 952,
@@ -921,6 +1036,7 @@
     },
     {
         "id": "6838856afc13ae759f285523",
+        "company_id": "68388406fc13ae754128504c",
         "product_name": "Snack Container Set",
         "description": "Stackable containers for organizing snacks and treats.",
         "price": 476,
@@ -929,6 +1045,7 @@
     },
     {
         "id": "6838856afc13ae759f285524",
+        "company_id": "68388406fc13ae75412850f3",
         "product_name": "Feta Cheese",
         "description": "Tangy feta cheese, perfect for salads and sandwiches.",
         "price": 816,
@@ -937,6 +1054,7 @@
     },
     {
         "id": "6838856afc13ae759f285525",
+        "company_id": "68388406fc13ae75412850d6",
         "product_name": "Herb Seasoned Croutons",
         "description": "Crunchy croutons with a blend of herbs for salads.",
         "price": 242,
@@ -945,6 +1063,7 @@
     },
     {
         "id": "6838856afc13ae759f285526",
+        "company_id": "68388406fc13ae7541285089",
         "product_name": "Adjustable Kitchen Broom Stand",
         "description": "Space-saving broom holder for organized cleaning supplies.",
         "price": 1311,
@@ -953,6 +1072,7 @@
     },
     {
         "id": "6838856afc13ae759f285527",
+        "company_id": "68388406fc13ae75412851bc",
         "product_name": "Digital Meat Thermometer",
         "description": "Instant-read thermometer for precise cooking temperatures.",
         "price": 462,
@@ -961,6 +1081,7 @@
     },
     {
         "id": "6838856afc13ae759f285528",
+        "company_id": "68388406fc13ae754128512a",
         "product_name": "Quinoa and Kale Salad Kit",
         "description": "Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",
         "price": 1187,
@@ -969,6 +1090,7 @@
     },
     {
         "id": "6838856afc13ae759f285529",
+        "company_id": "68388406fc13ae75412851b0",
         "product_name": "Cinnamon Sugar Tortilla Chips",
         "description": "Crispy chips with a sweet twist, perfect for dipping.",
         "price": 1131,
@@ -977,6 +1099,7 @@
     },
     {
         "id": "6838856afc13ae759f28552a",
+        "company_id": "68388406fc13ae7541285168",
         "product_name": "Adjustable Yoga Mat Strap",
         "description": "Convenient strap for carrying yoga mats to class.",
         "price": 806,
@@ -985,6 +1108,7 @@
     },
     {
         "id": "6838856afc13ae759f28552b",
+        "company_id": "68388406fc13ae7541285119",
         "product_name": "Linen Trousers",
         "description": "Breathable linen trousers perfect for hot weather.",
         "price": 910,
@@ -993,6 +1117,7 @@
     },
     {
         "id": "6838856afc13ae759f28552c",
+        "company_id": "68388406fc13ae7541285088",
         "product_name": "Peanut Butter",
         "description": "Creamy and smooth peanut butter, perfect for sandwiches.",
         "price": 414,
@@ -1001,6 +1126,7 @@
     },
     {
         "id": "6838856afc13ae759f28552d",
+        "company_id": "68388406fc13ae75412850b3",
         "product_name": "Rechargeable Hand Warmer",
         "description": "Portable rechargeable warmer for cold days.",
         "price": 983,
@@ -1009,6 +1135,7 @@
     },
     {
         "id": "6838856afc13ae759f28552e",
+        "company_id": "68388406fc13ae754128509e",
         "product_name": "Whisk Set",
         "description": "Set of whisks in various sizes for cooking.",
         "price": 488,
@@ -1017,6 +1144,7 @@
     },
     {
         "id": "6838856afc13ae759f28552f",
+        "company_id": "68388406fc13ae75412851d6",
         "product_name": "Cherry Almond Protein Bar",
         "description": "Nutritious protein bar with cherry and almond flavor, great for on-the-go.",
         "price": 569,
@@ -1025,6 +1153,7 @@
     },
     {
         "id": "6838856afc13ae759f285530",
+        "company_id": "68388406fc13ae75412851f5",
         "product_name": "Herb Seasoned Couscous",
         "description": "Fluffy couscous seasoned with a blend of herbs, perfect as a side dish.",
         "price": 1175,
@@ -1033,6 +1162,7 @@
     },
     {
         "id": "6838856afc13ae759f285531",
+        "company_id": "68388406fc13ae7541285061",
         "product_name": "Under Desk Footrest",
         "description": "Adjustable footrest for improved comfort while sitting.",
         "price": 1140,
@@ -1041,6 +1171,7 @@
     },
     {
         "id": "6838856afc13ae759f285532",
+        "company_id": "68388406fc13ae754128513c",
         "product_name": "Organic Almond Flour",
         "description": "Finely ground almonds for baking or cooking",
         "price": 745,
@@ -1049,6 +1180,7 @@
     },
     {
         "id": "6838856afc13ae759f285533",
+        "company_id": "68388406fc13ae75412850fc",
         "product_name": "Magnetic Phone Car Mount",
         "description": "Strong magnetic holder for smartphones in cars.",
         "price": 322,
@@ -1057,6 +1189,7 @@
     },
     {
         "id": "6838856afc13ae759f285534",
+        "company_id": "68388406fc13ae754128512d",
         "product_name": "Coconut Curry Sauce",
         "description": "A flavorful sauce made with coconut milk and spices.",
         "price": 282,
@@ -1065,6 +1198,7 @@
     },
     {
         "id": "6838856afc13ae759f285535",
+        "company_id": "68388406fc13ae75412850e1",
         "product_name": "Teriyaki Stir-Fry Sauce",
         "description": "Savory teriyaki sauce for stir-frying veggies or meats.",
         "price": 531,
@@ -1073,6 +1207,7 @@
     },
     {
         "id": "6838856afc13ae759f285536",
+        "company_id": "68388406fc13ae75412850db",
         "product_name": "Mini Cordless Vacuum Cleaner",
         "description": "Handheld vacuum cleaner for quick and easy cleaning.",
         "price": 1108,
@@ -1081,6 +1216,7 @@
     },
     {
         "id": "6838856afc13ae759f285537",
+        "company_id": "68388406fc13ae75412850c7",
         "product_name": "Peanut Butter Banana Smoothie",
         "description": "Smooth and creamy smoothie made with peanut butter and banana.",
         "price": 1420,
@@ -1089,6 +1225,7 @@
     },
     {
         "id": "6838856afc13ae759f285538",
+        "company_id": "68388406fc13ae754128521a",
         "product_name": "Oven Mitts",
         "description": "Silicone oven mitts for safe handling of hot cookware.",
         "price": 868,
@@ -1097,6 +1234,7 @@
     },
     {
         "id": "6838856afc13ae759f285539",
+        "company_id": "68388406fc13ae754128514a",
         "product_name": "Eco-Friendly Beeswax Wraps",
         "description": "Reusable wraps for food storage, replacing plastic wraps.",
         "price": 942,
@@ -1105,6 +1243,7 @@
     },
     {
         "id": "6838856afc13ae759f28553a",
+        "company_id": "68388406fc13ae754128502e",
         "product_name": "Honey Almond Granola Bars",
         "description": "Chewy granola bars made with honey and almonds.",
         "price": 1265,
@@ -1113,6 +1252,7 @@
     },
     {
         "id": "6838856afc13ae759f28553b",
+        "company_id": "68388406fc13ae75412851ee",
         "product_name": "Protein Pancake Mix",
         "description": "A protein-packed pancake mix for a nutritious breakfast.",
         "price": 360,
@@ -1121,6 +1261,7 @@
     },
     {
         "id": "6838856afc13ae759f28553c",
+        "company_id": "68388406fc13ae754128512b",
         "product_name": "Adjustable Bar Stools",
         "description": "Stylish bar stools with adjustable height and swivel features.",
         "price": 1362,
@@ -1129,6 +1270,7 @@
     },
     {
         "id": "6838856afc13ae759f28553d",
+        "company_id": "68388406fc13ae75412850d3",
         "product_name": "Essential White Button-Up",
         "description": "A classic white button-up shirt for a polished appearance.",
         "price": 294,
@@ -1137,6 +1279,7 @@
     },
     {
         "id": "6838856afc13ae759f28553e",
+        "company_id": "68388406fc13ae75412851f0",
         "product_name": "Quinoa Salad",
         "description": "A nutritious quinoa salad with veggies and dressing, ready-to-eat.",
         "price": 899,
@@ -1145,6 +1288,7 @@
     },
     {
         "id": "6838856afc13ae759f28553f",
+        "company_id": "68388406fc13ae7541285098",
         "product_name": "Winter Insulated Jacket",
         "description": "Warm and stylish jacket for cold weather.",
         "price": 639,
@@ -1153,6 +1297,7 @@
     },
     {
         "id": "6838856afc13ae759f285540",
+        "company_id": "68388406fc13ae7541285192",
         "product_name": "Spicy Avocado Salsa",
         "description": "A zesty salsa made from ripe avocados, tomatoes, onions, and jalape\u00c3\u00b1os, great for dipping or topping.",
         "price": 1402,
@@ -1161,6 +1306,7 @@
     },
     {
         "id": "6838856afc13ae759f285541",
+        "company_id": "68388406fc13ae75412850ea",
         "product_name": "Natural Peanut Butter",
         "description": "Creamy peanut butter with no added sugar or oils.",
         "price": 537,
@@ -1169,6 +1315,7 @@
     },
     {
         "id": "6838856afc13ae759f285542",
+        "company_id": "68388406fc13ae75412851be",
         "product_name": "Dog Waste Bag Dispenser",
         "description": "Convenient dispenser for dog waste bags on walks.",
         "price": 1332,
@@ -1177,6 +1324,7 @@
     },
     {
         "id": "6838856afc13ae759f285543",
+        "company_id": "68388406fc13ae7541285204",
         "product_name": "Smartphone Car Mount with Wireless Charging",
         "description": "Secure phone mount that wirelessly charges your device while driving.",
         "price": 472,
@@ -1185,6 +1333,7 @@
     },
     {
         "id": "6838856afc13ae759f285544",
+        "company_id": "68388406fc13ae75412851cf",
         "product_name": "Sriracha Chili Sauce",
         "description": "Spicy chili sauce with garlic and sugar for a flavor kick.",
         "price": 1498,
@@ -1193,6 +1342,7 @@
     },
     {
         "id": "6838856afc13ae759f285545",
+        "company_id": "68388406fc13ae7541285149",
         "product_name": "Herbal Tea Sampler Box",
         "description": "Assorted collection of herbal teas for relaxation and wellness.",
         "price": 1343,

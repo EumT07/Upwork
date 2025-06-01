@@ -1,34 +1,34 @@
 [
     {
         "id": "6838873dfc13ae74e5285c4a",
-        "payment_method": "Paypal"
+        "payment_methods": "Paypal"
     },
     {
         "id": "6838873dfc13ae74e5285c4b",
-        "payment_method": "Binance"
+        "payment_methods": "Binance"
     },
     {
         "id": "6838873dfc13ae74e5285c4c",
-        "payment_method": "Master Card"
+        "payment_methods": "Master Card"
     },
     {
         "id": "6838873dfc13ae74e5285c4d",
-        "payment_method": "Visa"
+        "payment_methods": "Visa"
     },
     {
         "id": "6838873dfc13ae74e5285c4e",
-        "payment_method": "Bank of America"
+        "payment_methods": "Bank of America"
     },
     {
         "id": "6838873dfc13ae74e5285c4f",
-        "payment_method": "Zeller"
+        "payment_methods": "Zeller"
     },
     {
         "id": "6838873dfc13ae74e5285c50",
-        "payment_method": "Zinly"
+        "payment_methods": "Zinly"
     },
     {
         "id": "6838873dfc13ae74e5285c51",
-        "payment_method": "American Express"
+        "payment_methods": "American Express"
     }
 ]
