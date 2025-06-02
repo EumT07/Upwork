@@ -21,27 +21,29 @@ CREATE TABLE IF NOT EXISTS public.users (
 
 CREATE TABLE IF NOT EXISTS public.companies (
         id TEXT PRIMARY KEY,
-        name TEXT NOT NULL,
+        company_name TEXT NOT NULL,
         tax_id NUMERIC,
         sales NUMERIC
     );
 
 CREATE TABLE IF NOT EXISTS public.products (
         id TEXT PRIMARY KEY,
+        company_id TEXT NOT NULL,
         product_name TEXT NOT NULL,
         description TEXT,
         price DECIMAL(10,2) NOT NULL,
         department TEXT,
         release DATE,
-        updated_at TIMESTAMP
+        updated_at TIMESTAMP,
+        FOREIGN KEY (company_id) REFERENCES public.companies(id)
     );
 
 CREATE TABLE IF NOT EXISTS public.product_items (
         id TEXT PRIMARY KEY,
-        product_id TEXT NOT NULL,
+        product_item_id TEXT NOT NULL,
         serial_number TEXT UNIQUE,
         status TEXT CHECK(status IN ('available', 'sold', 'returned')),
-        FOREIGN KEY (product_id) REFERENCES public.products(id)
+        FOREIGN KEY (product_item_id) REFERENCES public.products(id)
     );
 
 CREATE TABLE IF NOT EXISTS public.payment_methods (
@@ -61,12 +63,12 @@ CREATE TABLE IF NOT EXISTS public.bills (
 
 CREATE TABLE IF NOT EXISTS public.payments (
         id TEXT PRIMARY KEY,
-        bills_id TEXT NOT NULL,
+        bill_id TEXT NOT NULL,
         payment_methods_id TEXT NOT NULL,
         transaction_id TEXT,
         status TEXT CHECK(status IN ('pending', 'completed', 'failed', 'refunded')),
         created DATE,
-        FOREIGN KEY (bills_id) REFERENCES public.bills(id),
+        FOREIGN KEY (bill_id) REFERENCES public.bills(id),
         FOREIGN KEY (payment_methods_id) REFERENCES public.payment_methods(id)
     );
 
